@@ -1,7 +1,7 @@
 {
   "name": "backstage-text-field",
   "version": "0.1.0",
-  "description": "backstage text field",
+  "description": "Backstage React text field component",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
