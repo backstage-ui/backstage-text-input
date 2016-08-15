@@ -1,0 +1,22 @@
+{
+  "name": "backstage-text-field",
+  "version": "0.1.0",
+  "description": "backstage text field",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src",
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backstage-ui/backstage-text-input.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/backstage-ui/backstage-text-input/issues"
+  },
+  "homepage": "https://github.com/backstage-ui/backstage-text-input#readme",
+  "devDependencies": {
+  }
+}
